@@ -11,7 +11,7 @@ metadata:
     release: docker-registry
 type: Opaque
 data:
-  haSharedSecret: "RGxBSjdDelY4a2tLeWJtMw=="
+  haSharedSecret: "WWxxdWc0OUpxbkFtbGdHMA=="
   proxyUsername: ""
   proxyPassword: ""
 ---
