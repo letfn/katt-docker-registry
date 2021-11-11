@@ -1,4 +1,6 @@
+service:
+  type: LoadBalancer
 persistence:
   enabled: true
   size: 100Gi
-haSharedSecret: ""
+haSharedSecret: admin

@@ -29,7 +29,7 @@ metadata:
 ---
 apiVersion: v1
 data:
-  haSharedSecret: bjRqUlJ2ZTd4VUVHSzZCWA==
+  haSharedSecret: VnhwREJaOU9nU2tsYUY4Wg==
   proxyPassword: ""
   proxyUsername: ""
 kind: Secret
@@ -60,7 +60,7 @@ spec:
   selector:
     app: docker-registry
     release: docker-registry
-  type: ClusterIP
+  type: LoadBalancer
 ---
 apiVersion: v1
 kind: PersistentVolumeClaim
