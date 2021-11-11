@@ -29,7 +29,7 @@ metadata:
 ---
 apiVersion: v1
 data:
-  haSharedSecret: WWxxdWc0OUpxbkFtbGdHMA==
+  haSharedSecret: bjRqUlJ2ZTd4VUVHSzZCWA==
   proxyPassword: ""
   proxyUsername: ""
 kind: Secret
